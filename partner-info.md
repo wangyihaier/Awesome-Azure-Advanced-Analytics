@@ -1,5 +1,6 @@
-# Partner Learning Path
-https://mspartnerlp.partner.microsoft.com/LearningPath/LearningPath/DLPaths?trackId=1621&rowId=2201
+## Partner Onboarding 
 
-# C+E Online Courses
-https://mooc.msregistration.com/Content/Courses.aspx
+## General Resources
+
+* [Partner Learning Path](https://mspartnerlp.partner.microsoft.com/LearningPath/LearningPath/DLPaths?trackId=1621&rowId=2201)
+* [Interactive Azure Platform Big Picture](https://mooc.msregistration.com/Content/Courses.aspx)
